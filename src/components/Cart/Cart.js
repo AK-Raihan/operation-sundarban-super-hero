@@ -20,7 +20,7 @@ const Cart = (props) => {
                 <div className="card-body">
                     <h2 className="card-title text-info">Total invited: {cart.length}</h2>
                     <h4 className="card-text my-3 text-primary">Actor cost: {total} BDT</h4>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="/" className="btn btn-primary">Go somewhere</a>
                 </div>
                 </div>
 

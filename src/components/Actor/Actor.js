@@ -2,7 +2,7 @@ import React from 'react';
 import './Actor.css'
 
 const Actor = (props) => {
-    const{name, occupation, sellery, birth,img}=props.movie
+    const{name, occupation, sellery, birth, img, NotableWork}=props.movie
     return (
             <div className="col-lg-4 g-5 actor-item">
                 <div className="row">
@@ -13,6 +13,7 @@ const Actor = (props) => {
                         <h3 className="card-title">Name: {name}</h3>
                         <h6 className="card-title">Occupation: {occupation}</h6>
                         <h5 className="card-text">Wages: {sellery}</h5>
+                        <h6 className="card-text">Notable Work: {NotableWork}</h6>
                         <p className="card-text">Date of birth: {birth}</p>
                         </div>
                         <div className="social-icon">
