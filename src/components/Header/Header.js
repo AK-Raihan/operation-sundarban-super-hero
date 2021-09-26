@@ -7,7 +7,7 @@ const Header = () => {
 
                 <nav className="navbar navbar-expand-lg main-header">
                 <div className="container-fluid ">
-                    <a className="navbar-brand text-success fw-bold fs-3" href="#">Operation Sundarban</a>
+                    <a className="navbar-brand text-success fw-bold fs-3 ms-1" href="#">Operation Sundarban</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
@@ -20,7 +20,7 @@ const Header = () => {
                         <a className="nav-link" href="#">Catagories</a>
                         </li>
                         <li className="nav-item">
-                        <a className="nav-link" href="#">Link</a>
+                        <a className="nav-link" href="#">shooting spot</a>
                         </li>
                         <li className="nav-item">
                         <a className="nav-link" href="#">Link</a>
@@ -33,9 +33,9 @@ const Header = () => {
                     </div>
                 </div>
                 </nav>
-
+                
+                {/* header content */}
                 <div className="header-title py-2">
-
                     <div className="container text-center">
                         <h1>Operation Sundarban</h1>
                         <h5>Operation Sundarbans (Bengali: অপারেশন সুন্দরবন) or Operation Sundarban is an upcoming Bangladeshi wildlife action thriller movie. The film is co-written and directed by Dipankar Sengupta Dipon. The film is produced by RAB Welfare Cooperative Society Ltd.[2] Nazim-ud-Doula and Dipon have written the screenplay. The plot is loosely based on real operations of RAB during surrender of robbers of Sundarbans as well as the struggle of Sundarbans' natives.</h5>

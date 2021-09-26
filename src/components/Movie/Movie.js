@@ -19,7 +19,6 @@ const Movie = () => {
     }
     return (
         <div>
-
             <div className="row">
                 <div className="col-lg-9">
                     <div className="row">
@@ -28,7 +27,7 @@ const Movie = () => {
                                 key={movie.code} 
                                 movie={movie}
                                 handleCartActor={handleCartActor}
-                                ></Actor>)
+                            ></Actor>)
                         }
                     </div>
                 </div>

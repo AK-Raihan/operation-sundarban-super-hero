@@ -4,18 +4,27 @@ import './Actor.css'
 const Actor = (props) => {
     const{name, occupation, sellery, birth,img}=props.movie
     return (
-            <div className="col-lg-4 g-5">
+            <div className="col-lg-4 g-5 actor-item">
                 <div className="row">
                 <div className="card h-100 actor-card">
                     <img src={img} className="card-img-top" alt="..."/>
-                    <div className="card-body">
+                    <div className="card-body d-flex justify-content-evenly">
+                        <div className="card-content">
                         <h3 className="card-title">Name: {name}</h3>
                         <h6 className="card-title">Occupation: {occupation}</h6>
-                        <p className="card-text">Sellery: {sellery}</p>
+                        <h5 className="card-text">Wages: {sellery}</h5>
                         <p className="card-text">Date of birth: {birth}</p>
+                        </div>
+                        <div className="social-icon">
+                            <li><i class="fab fa-facebook"></i></li>
+                            <li><i class="fab fa-instagram"></i></li>
+                            <li><i class="fab fa-linkedin"></i></li>
+                            <li><i class="fab fa-youtube"></i></li>
+                        </div>
+
                     </div>
                     <div className="card-footer">
-                    <button onClick={()=> props.handleCartActor(props.movie)} className='btn btn-lg btn-outline-info'>Add to cart</button>
+                    <button onClick={()=> props.handleCartActor(props.movie)} className='btn btn-lg btn-outline-info add-btn'><i class="fas fa-cart-plus add-icon"></i> Invite</button>
                 </div>
                 </div>
                 </div>

@@ -3,7 +3,7 @@
       "code": 4126,
       "name": "Riaj",
       "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 200000,
       "birth": 1995
     },
@@ -11,7 +11,7 @@
       "code": 4127,
       "name": "Ziaul Roshan",
       "img" : "https://www.daily-sun.com/assets/news_images/2020/09/08/Dailysun-2.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 50000,
       "birth": 1998
     },
@@ -19,7 +19,7 @@
       "code": 4128,
       "name": "Siam Ahmed",
       "img":"https://superstarsbio.com/wp-content/uploads/2019/11/Siam-Ahmed.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 150000,
       "birth": 1997
     },
@@ -27,7 +27,7 @@
       "code": 4129,
       "name": "Taskeen Rahman",
       "img":"https://images.prothomalo.com/prothomalo-english/import/media/2019/01/07/4a90ac8a1e7c155aa5a0f434931cddb3-Taskin.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 150000,
       "birth": 1994
     },
@@ -35,7 +35,7 @@
       "code": 4130,
       "name": "Shatabdi Wadud",
       "img":"https://www.observerbd.com/2017/10/28/1509207819.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 50000,
       "birth": 1990
     },
@@ -43,7 +43,7 @@
       "code": 4131,
       "name": "Nusraat Faria",
       "img":"https://media-eng.dhakatribune.com/uploads/2021/04/n-faria-1617976537996.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 100000,
       "birth": 1999
     },
@@ -51,7 +51,7 @@
       "code": 4132,
       "name": "Darshana Banik",
       "img": "https://i1.wp.com/wikifolder.com/wp-content/uploads/2020/06/Darshana-Banik.jpg?fit=640%2C420&ssl=1",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 70000,
       "birth": 1992
     },
@@ -59,7 +59,7 @@
       "code": 4133,
       "name": "Manoj Kumar Pramanik",
       "img":"https://media-eng.dhakatribune.com/uploads/2020/12/takdir-behind-the-scene-day-10-19-sep-20-img-3651-1609393319277.JPG",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 100000,
       "birth": 1995
     },
@@ -67,7 +67,7 @@
       "code": 4134,
       "name": "Samina Bashar",
       "img":"https://superstarsbio.com/wp-content/uploads/2019/10/Ushna-Shah-height.jpg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 80000,
       "birth": 1998
     },
@@ -75,23 +75,23 @@
       "code": 4135,
       "name": "Dipu Imam",
       "img":"https://operationsundarban.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2021-01-20-at-2.55.29-PM-1-p1n1nyt9k06yeaoppkho3m2l1fi0onx19pdv6h5bco.jpeg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 40000,
-      "birth": 1993
+      "birth": 1985
     },
     {
       "code": 4136,
       "name": "Ehsanur Rahman",
       "img":"https://operationsundarban.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2021-01-20-at-2.55.28-PM-p1n1ya3isc2yh57ku63i7etc769ow633lwdylf68bk.jpeg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 60000,
-      "birth": 1996
+      "birth": 1988
     },
     {
       "code": 4137,
       "name": "Abir",
       "img":"https://operationsundarban.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2021-01-20-at-2.55.26-PM-1-p1n0ooxcjggqzzl7gdk2dzsw1r6g8ebh81xctp8u4o.jpeg",
-      "occupation": "actor",
+      "occupation": "Artist",
       "sellery": 90000,
       "birth": 1998
     }

@@ -9,18 +9,26 @@ const Cart = (props) => {
     let total = 0;
     for(const artist of cart){
         total= total+artist.sellery;
+        // const image = artist.img;
     }
 
     return (
         <div className='cart-element'>
-            <h2>Almost total actors number: {cart.length}</h2>
-            <h4>Actor cost: {total}</h4>
 
-            <ol>
+                <div className="card " style={{"width": "20rem"}}>
+                {/* <img src="" className="card-img-top" alt="..."/> */}
+                <div className="card-body">
+                    <h2 className="card-title text-info">Total invited: {cart.length}</h2>
+                    <h4 className="card-text my-3 text-primary">Actor cost: {total} BDT</h4>
+                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                </div>
+                </div>
+
+            <ul className='fs-4 text-success fw-bolder'>
                 {
-                    cart.map(actor=><li>{actor.name} </li>)
+                    cart.map(actor=><li key={actor.code}>{actor.name} </li>)
                 }
-            </ol>
+            </ul>
         </div>
     );
 };
