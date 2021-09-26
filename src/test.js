@@ -1,7 +1,7 @@
 
 
 // const artist[
-//     {id:1, name:'Riaj', occupation:'actor', sellery: 200000, birth: 1995},
+//     {id:1, name:'Riaj', occupation:'actor', img:"http://placehold.it/32x32" sellery: 200000, birth: 1995},
 //     {id:2, name:'Ziaul Roshan', occupation:'actor', sellery: 50000, birth: 1998},
 //     {id:3, name:'Siam Ahmed', occupation:'actor', sellery: 150000, birth: 1997},
 //     {id:4, name:'Taskeen Rahman', occupation:'actor', sellery: 150000, birth: 1994},

@@ -3,7 +3,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div classNameName='header-section'>
+        <div className='header-section'>
 
                 <nav className="navbar navbar-expand-lg main-header">
                 <div className="container-fluid ">
