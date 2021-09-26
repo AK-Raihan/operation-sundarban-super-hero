@@ -1,6 +1,12 @@
-
+.actor-item{
+    padding-bottom: 10px;
+}
 .actor-card{
-    background: #f7fae7;
+    background: #65a3f5;
+    box-shadow: 5px 5px 15px 5px #215394;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
 }
 .actor-card img{
     width: 50%;

@@ -1,7 +1,12 @@
 
-
+.header-title h1{
+    color: rgb(52, 84, 85);
+}
+.header-title h3{
+    color: rgb(120, 224, 228);
+}
 .main-header{
-    background: rgb(201, 172, 6);
+    background: #81b8ec;
 }
 
 .my-menu a{
@@ -9,5 +14,5 @@
     font-size: 20px;
 }
 .header-title{
-    background: rgb(245, 225, 115);
+    background: #287dcc;
 }

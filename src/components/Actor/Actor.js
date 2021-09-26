@@ -8,7 +8,7 @@ const Actor = (props) => {
                 <div className="row">
                 <div className="card h-100 actor-card">
                     <img src={img} className="card-img-top" alt="..."/>
-                    <div className="card-body d-flex justify-content-evenly">
+                    <div className="card-body d-flex justify-content-evenly actor-body">
                         <div className="card-content">
                         <h3 className="card-title">Name: {name}</h3>
                         <h6 className="card-title">Occupation: {occupation}</h6>
