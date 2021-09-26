@@ -24,7 +24,7 @@ const Cart = (props) => {
                 </div>
                 </div>
 
-            <ul className='fs-4 text-success fw-bolder'>
+            <ul className='fs-4 text-white fw-bolder'>
                 {
                     cart.map(actor=><li key={actor.code}>{actor.name} </li>)
                 }
